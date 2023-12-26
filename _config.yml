@@ -1,13 +1,13 @@
 # Site
-repository: JingMatrix/about
+repository: JingMatrix/cv
 favicon: images/favicon.ico
 
 # Personal info
 name: Jianyu MA
-title: Master 2 Student, Fundamental Mathematics
+title: PhD Student, Probability and Geometry (Optimal Transport)
 email: jingmatrix@gmail.com
 # phone: Your phone number (optional)
-website: https://jingmatrix.github.io/
+website: https://www.math.univ-toulouse.fr/~jma/
 
 # Social links
 # twitter_username: jekyllrb
@@ -26,21 +26,20 @@ facebook_username: jianyu.ma.796
 about_title: About Me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  I am a graduate student in mathematics and I am currently studying at Toulouse, France.
+  I am a PhD student in mathematics at [Institut de mathématiques de Toulouse](https://www.math.univ-toulouse.fr/), France.
 
-  I was born on October 26th, 1998. However, you may already know that many Chinese people use a different [calendar](https://en.wikipedia.org/wiki/Chinese_calendar), so my birthday🎂 'changes' every year.
+  I was born on October 26th, 1998. However, you may already know that many Chinese people use a different [calendar](https://en.wikipedia.org/wiki/Chinese_calendar), so my birthday 🎂 'changes' every year.
 
-  I like to write✎, but mainly in [Chinese](/blog/).  Currently my [English Blogs](https://jingmatrix.github.io/articles/writings/2019-12-21-Workflow) focus on:
+  I like to write ✎, but mainly in [Chinese](https://jingmatrix.github.io/zh/blog/2023-12-18-galaxy-iss).  Currently my [English Blogs](https://jingmatrix.github.io/en/writing/2022-10-04-pdf-djvu-epub) focus on:
     - Computer programs (my second passion after mathematics)
     - Excerpts from mathematical articles
   
   My collection of math notes and E-books is shared via [Google Drive](https://drive.google.com/drive/folders/1O279emuW9Z1LGmQ94fbRYfjZoxT8bpwU?usp=sharing).
    
   In a sense, my taste is a bit retro:
-    - For musician🎶, I prefer [Beethoven](https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven).
-    - For director🎥, I prefer [Béla Tarr](https://fr.wikipedia.org/wiki/B%C3%A9la_Tarr), all of his movies are Black-and-White.
-    - For writer📘, I prefer [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche), especially his [Par-delà le bien et le mal](https://fr.wikipedia.org/wiki/Par-del%C3%A0_le_bien_et_le_mal).
-
+    - For musician 🎶, I prefer [Beethoven](https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven).
+    - For director 🎥, I prefer [Béla Tarr](https://fr.wikipedia.org/wiki/B%C3%A9la_Tarr), all of his movies are Black-and-White.
+    - For writer 📘, I prefer [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche), especially his [Par-delà le bien et le mal](https://fr.wikipedia.org/wiki/Par-del%C3%A0_le_bien_et_le_mal).
 
 # Build settings
 remote_theme: sproogen/resume-theme
