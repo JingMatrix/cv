@@ -1,9 +1,0 @@
-# Project template
-- layout: top-middle
-  name: Stochastics calculus application in quantum mechanics
-  link: https://jingmatrix.github.io/pdf/probability_M1_stage.pdf
-  linktext: View the report PDF
-  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  # quote: >
-  description: | # this will include new lines to allow paragraphs
-    This is an internship project with my classmate Omar under the guide of [Tristan Benoist](https://tristanbenoist.wordpress.com/cv/) and [Clément Pellegrini](https://www.math.univ-toulouse.fr/~pellegri/).
